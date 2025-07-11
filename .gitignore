@@ -1,0 +1,9 @@
+venv
+
+.env
+
+db/Downloads
+
+__pycache__
+
+app.log
